@@ -1,2 +1,2 @@
 # ChocolateWebScraper
-quick web scraper
+quick web scraper from the CC DS path.
